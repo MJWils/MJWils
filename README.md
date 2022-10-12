@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MJWils
-- 👀 I’m interested in ... Front end development
-- 🌱 I’m currently learning ... JS, React & TailwindCSS
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... I go by /MJWebdev on FB & mjweb_dev on IG & Twitter.
+Software developer at the Met Office. 
+
+Enjoys hiking, running and video games.
 
 <!---
 MJWils/MJWils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
